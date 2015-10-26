@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["StreamingParser","https://opensource.apple.com/source/CF/CF-550/CFBinaryPList.c https://hg.python.org/cpython/file/3.4/Lib/plistlib.py"]]});
